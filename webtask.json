@@ -1,5 +1,5 @@
 {
-  "codeUrl": "https://github.com/auth0/auth0-mailchimp-export",
+  "codeUrl": "https://raw.githubusercontent.com/djanogly/auth0-mailchimp-export/master/index.js",
   "title": "Auth0 MailChimp Export",
   "name": "auth0-mailchimp-export",
   "version": "1.0.0",
